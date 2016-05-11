@@ -18,7 +18,7 @@ def main():
         usage: dos2unix *.pkl (in cmd)
         """ 
         #uncomment to load prev-trained model's data
-        flappy.load_Q_params(cPickle.load(open('a5Res4Exp9q-flappy54000.pkl','r')))
+        flappy.load_Q_params(cPickle.load(open('flappy54000.pkl','r')))
     
     action = random.randint(0,2)
     flappy.act(1)
@@ -30,7 +30,7 @@ def main():
             i+=1
             if (flappy.times_dead % 1000) == 0:
                 print "1000 times dead"
-                net_file = open('E:/py-atarti-dqn/All Models Final/FlappyQ/Saved_models_new/flappy'+str(flappy.times_dead)+'.pkl', 'w')
+                net_file = open('Saved_models_new/flappy'+str(flappy.times_dead)+'.pkl', 'w')
                 pickle.dump(flappy.ALL_Q_STUFF, net_file)
                 net_file.close()
     
