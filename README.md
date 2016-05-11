@@ -89,7 +89,7 @@ Number of epochs and train cycles has been adjusted such that all the above code
 
 ##Resources used:  
 
-The deep Q network used in this project is a modified version of spragunr's dqn code (https://github.com/spragunr/deep_q_rl).
+The deep Q network used in this project is a modified version of spragunr's dqn code (https://github.com/spragunr/deep_q_rl).  
 [1] Deep Learning in Neural Networks: An Overview http://arxiv.org/abs/1404.7828  
 [2] The Arcade Learning Environment: https://www.jair.org/media/3912/live-3912-7087-jair.pdf  
 [3] ImageNet Classification with Deep Convolutional Neural Networks:  https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf  
