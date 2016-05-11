@@ -1,0 +1,234 @@
+Game Over! Score: 2
+Game Over! Score: 1
+Game Over! Score: 1
+Game Over! Score: 1
+Game Over! Score: 0
+Game Over! Score: 2
+Game Over! Score: 0
+Game Over! Score: 1
+Game Over! Score: 1
+Game Over! Score: 2
+Game Over! Score: 0
+Game Over! Score: 1
+Game Over! Score: 1
+Game Over! Score: 0
+Game Over! Score: 1
+Game Over! Score: 2
+Game Over! Score: 1
+Game Over! Score: 2
+Game Over! Score: 4
+Game Over! Score: 0
+Total score over all games:23
+Average score:1
+flappy_models/dep-q-flappy-1-epoch.pkl
+Game Over! Score: 3
+Game Over! Score: 0
+Game Over! Score: 9
+Game Over! Score: 23
+Game Over! Score: 7
+Game Over! Score: 11
+Game Over! Score: 23
+Game Over! Score: 9
+Game Over! Score: 8
+Game Over! Score: 24
+Game Over! Score: 2
+Game Over! Score: 32
+Game Over! Score: 27
+Game Over! Score: 4
+Game Over! Score: 14
+Game Over! Score: 3
+Game Over! Score: 12
+Game Over! Score: 1
+Game Over! Score: 1
+Game Over! Score: 0
+Total score over all games:213
+Average score:10
+flappy_models/dep-q-flappy-11-epoch.pkl
+Game Over! Score: 0
+Game Over! Score: 6
+Game Over! Score: 12
+Game Over! Score: 8
+Game Over! Score: 3
+Game Over! Score: 7
+Game Over! Score: 9
+Game Over! Score: 8
+Game Over! Score: 0
+Game Over! Score: 0
+Game Over! Score: 0
+Game Over! Score: 10
+Game Over! Score: 28
+Game Over! Score: 0
+Game Over! Score: 7
+Game Over! Score: 12
+Game Over! Score: 5
+Game Over! Score: 1
+Game Over! Score: 1
+Game Over! Score: 17
+Total score over all games:134
+Average score:6
+flappy_models/dep-q-flappy-21-epoch.pkl
+Game Over! Score: 10
+Game Over! Score: 3
+Game Over! Score: 8
+Game Over! Score: 15
+Game Over! Score: 0
+Game Over! Score: 12
+Game Over! Score: 12
+Game Over! Score: 31
+Game Over! Score: 1
+Game Over! Score: 8
+Game Over! Score: 5
+Game Over! Score: 0
+Game Over! Score: 0
+Game Over! Score: 0
+Game Over! Score: 8
+Game Over! Score: 1
+Game Over! Score: 0
+Game Over! Score: 13
+Game Over! Score: 13
+Game Over! Score: 0
+Total score over all games:140
+Average score:7
+flappy_models/dep-q-flappy-31-epoch.pkl
+Game Over! Score: 0
+Game Over! Score: 1
+Game Over! Score: 0
+Game Over! Score: 12
+Game Over! Score: 4
+Game Over! Score: 0
+Game Over! Score: 4
+Game Over! Score: 0
+Game Over! Score: 20
+Game Over! Score: 7
+Game Over! Score: 23
+Game Over! Score: 10
+Game Over! Score: 0
+Game Over! Score: 7
+Game Over! Score: 5
+Game Over! Score: 5
+Game Over! Score: 5
+Game Over! Score: 12
+Game Over! Score: 10
+Game Over! Score: 3
+Total score over all games:128
+Average score:6
+flappy_models/dep-q-flappy-41-epoch.pkl
+Game Over! Score: 2
+Game Over! Score: 8
+Game Over! Score: 1
+Game Over! Score: 3
+Game Over! Score: 13
+Game Over! Score: 15
+Game Over! Score: 14
+Game Over! Score: 6
+Game Over! Score: 16
+Game Over! Score: 3
+Game Over! Score: 7
+Game Over! Score: 0
+Game Over! Score: 3
+Game Over! Score: 1
+Game Over! Score: 2
+Game Over! Score: 12
+Game Over! Score: 5
+Game Over! Score: 0
+Game Over! Score: 9
+Game Over! Score: 2
+Total score over all games:122
+Average score:6
+flappy_models/dep-q-flappy-51-epoch.pkl
+Game Over! Score: 0
+Game Over! Score: 3
+Game Over! Score: 4
+Game Over! Score: 6
+Game Over! Score: 0
+Game Over! Score: 18
+Game Over! Score: 2
+Game Over! Score: 18
+Game Over! Score: 35
+Game Over! Score: 15
+Game Over! Score: 17
+Game Over! Score: 27
+Game Over! Score: 5
+Game Over! Score: 15
+Game Over! Score: 1
+Game Over! Score: 0
+Game Over! Score: 2
+Game Over! Score: 0
+Game Over! Score: 6
+Game Over! Score: 11
+Total score over all games:185
+Average score:9
+flappy_models/dep-q-flappy-61-epoch.pkl
+Game Over! Score: 0
+Game Over! Score: 0
+Game Over! Score: 1
+Game Over! Score: 7
+Game Over! Score: 6
+Game Over! Score: 3
+Game Over! Score: 4
+Game Over! Score: 25
+Game Over! Score: 5
+Game Over! Score: 11
+Game Over! Score: 3
+Game Over! Score: 5
+Game Over! Score: 19
+Game Over! Score: 1
+Game Over! Score: 1
+Game Over! Score: 2
+Game Over! Score: 3
+Game Over! Score: 27
+Game Over! Score: 21
+Game Over! Score: 8
+Total score over all games:152
+Average score:7
+flappy_models/dep-q-flappy-71-epoch.pkl
+Game Over! Score: 1
+Game Over! Score: 3
+Game Over! Score: 6
+Game Over! Score: 10
+Game Over! Score: 13
+Game Over! Score: 8
+Game Over! Score: 2
+Game Over! Score: 21
+Game Over! Score: 3
+Game Over! Score: 11
+Game Over! Score: 9
+Game Over! Score: 1
+Game Over! Score: 9
+Game Over! Score: 1
+Game Over! Score: 10
+Game Over! Score: 0
+Game Over! Score: 6
+Game Over! Score: 6
+Game Over! Score: 6
+Game Over! Score: 4
+Total score over all games:130
+Average score:6
+flappy_models/dep-q-flappy-81-epoch.pkl
+Game Over! Score: 8
+Game Over! Score: 5
+Game Over! Score: 11
+Game Over! Score: 11
+Game Over! Score: 15
+Game Over! Score: 3
+Game Over! Score: 2
+Game Over! Score: 0
+Game Over! Score: 2
+Game Over! Score: 4
+Game Over! Score: 11
+Game Over! Score: 5
+Game Over! Score: 6
+Game Over! Score: 3
+Game Over! Score: 6
+Game Over! Score: 0
+Game Over! Score: 0
+Game Over! Score: 8
+Game Over! Score: 0
+Game Over! Score: 1
+Total score over all games:101
+Average score:5
+flappy_models/dep-q-flappy-91-epoch.pkl
+
+
+
+11,61
