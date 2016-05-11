@@ -69,17 +69,37 @@ To run the agent with just 2 control setting (left and right):
 python ShooterDQN/stester8.py --play_games 10 --display_screen --load_weights shooter_models/dep-q-shooter-nipscuda-8movectrl-99-epoch.pkl 
 ```  
 
-To run the agent with just 2 control setting (left and right):  
+To run the agent with just 4 control setting (left, right, top and bottom):  
 
 ``` 
 python ShooterDQN/stester4.py --play_games 10 --display_screen --load_weights shooter_models/dep-q-shooter-nipscuda-4movectrl-99-epoch.pkl 
 ```  
 
-To run the agent with just 2 control setting (left and right):  
+To run the agent with just 8 control setting (all directions):  
 
 ``` 
 python ShooterDQN/stester2.py --play_games 10 --display_screen --load_weights shooter_models/dep-q-shooter-nipscuda-2movectrl-80-epoch.pkl 
 ```  
+
+##Statistics
+For all the below graphs, the X axis is the traning timeline and the Y axis the score funtion for each game.
+
+Atari Breakout:  
+![AtariStatBreakout](https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Stats/AtariStatBreakout.png)  
+
+Atari Space Invaders:  
+![AtariStatSpaceInvaders](https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Stats/AtariStatSpaceInvaders.png)  
+
+Flappy Q Learning:  
+![FlappyQStat](https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Stats/FlappyQStat.png)  
+
+Flappy DQN:  
+![FlappyDQNStat](https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Stats/FlappyDQNStat.png)  
+
+Shooter (4-control):  
+![Shooter-4ControlStat](https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Stats/Shooter-4ControlStat.png)  
+
+
 
 
 ##Note:
