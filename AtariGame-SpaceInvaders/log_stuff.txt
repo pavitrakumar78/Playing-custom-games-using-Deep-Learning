@@ -1,0 +1,6 @@
+Time: 2016-03-27 11:11:37	Total moves made in a game: 2474			Total Score: 435.0
+Time: 2016-03-27 11:12:10	Total moves made in a game: 2438			Total Score: 470
+Time: 2016-03-27 11:39:45	Total moves made in a game: 2670			Total Score: 510.0
+Time: 2016-03-27 11:40:29	Total moves made in a game: 3333			Total Score: 545
+Time: 2016-03-27 11:41:37	Total moves made in a game: 3641			Total Score: 630.0
+Time: 2016-03-27 11:42:08	Total moves made in a game: 2364			Total Score: 445

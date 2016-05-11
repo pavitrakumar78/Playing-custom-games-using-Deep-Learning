@@ -1,0 +1,2 @@
+Time: 2016-03-27 11:36:04	Total moves made in a game: 955			Total Score: 1.0
+Time: 2016-03-27 11:37:07	Total moves made in a game: 2021			Total Score: 13.0
