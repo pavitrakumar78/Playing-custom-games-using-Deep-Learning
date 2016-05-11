@@ -85,37 +85,37 @@ python ShooterDQN/stester8.py --play_games 10 --display_screen --load_weights sh
 For all the below graphs, the X axis is the traning timeline and the Y axis the score funtion for each game.
 
 Atari Breakout:  
-<img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Stats/AtariStatBreakout.png" width="200" height="200" />  
+<img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Stats/AtariStatBreakout.png" width="300" height="300" />  
 
 Atari Space Invaders:  
-![AtariStatSpaceInvaders](https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Stats/AtariStatSpaceInvaders.png)  
+<img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Stats/AtariStatSpaceInvaders.png" width="300" height="300" />     
 
 Flappy Q Learning:  
-![FlappyQStat](https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Stats/FlappyQStat.png)  
+<img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Stats/FlappyQStat.png" width="300" height="300" />    
 
 Flappy DQN:  
-![FlappyDQNStat](https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Stats/FlappyDQNStat.png)  
+<img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Stats/FlappyDQNStat.png" width="300" height="300" />    
 
 Shooter (4-control):  
-![Shooter-4ControlStat](https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Stats/Shooter-4ControlStat.png)  
+<img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Stats/Shooter-4ControlStat.png" width="300" height="300" />    
 
 
 ##Pics:
 
 Atari Breakout:  
-![ataribreakout](https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/ataribreakout.png)  
+<img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/ataribreakout.png" width="300" height="800" />  
 
 Atari Space Invaders:  
-![/atarispaceinvaders](https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/atarispaceinvaders.png)  
+<img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/atarispaceinvaders.png" width="300" height="800" />    
 
 Flappy Bird - Q Learning:  
-![flappydqn](https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/flappydqn.png)  
+<img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/flappydqn.png" width="300" height="800" />    
 
 Flappy Bird - DQN:  
-![flappyqn](https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/flappyqn.png)  
+<img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/flappyqn.png" width="300" height="800" />   
 
 Atari Shooter:  
-![shooter](https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/shooter.png)  
+<img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/shooter.png" width="300" height="800" />    
 
 
 ##Note:
