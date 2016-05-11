@@ -85,7 +85,7 @@ python ShooterDQN/stester8.py --play_games 10 --display_screen --load_weights sh
 For all the below graphs, the X axis is the traning timeline and the Y axis the score funtion for each game.
 
 Atari Breakout:  
-![AtariStatBreakout](https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Stats/AtariStatBreakout.png)  
+![AtariStatBreakout](https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Stats/AtariStatBreakout.png =100x100)  
 
 Atari Space Invaders:  
 ![AtariStatSpaceInvaders](https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Stats/AtariStatSpaceInvaders.png)  
