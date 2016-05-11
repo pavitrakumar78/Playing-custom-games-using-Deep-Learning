@@ -82,8 +82,9 @@ python ShooterDQN/stester8.py --play_games 10 --display_screen --load_weights sh
 ```  
 
 ##Statistics
-For all the below graphs, the X axis is the traning timeline and the Y axis the score funtion for each game.
-(Note: scores in Shooter anf flappy bird have been modified (reward amplified) because the original +1 or -1 is not applicable since the player does not have "lives" here and rewards are also very sparse in the these 2 games.)
+For all the below graphs, the X axis is the traning timeline and the Y axis the score funtion for each game.  
+(Note: scores in Shooter anf flappy bird have been modified (reward amplified) because the original +1 or -1 is not applicable since the player does not have "lives" here and rewards are also very sparse in the these 2 games.)  
+
 Atari Breakout:  
 <img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Stats/AtariStatBreakout.png" width="300" height="300" />  
 
