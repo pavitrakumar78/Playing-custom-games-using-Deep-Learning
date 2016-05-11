@@ -27,12 +27,16 @@ To run the agent:
 
 Breakout:
 
-```python AtariGame-Breakout/tester.py --rom_file breakout.bin --play_games 10 --display_screen --load_weights breakout_models/dep-q-rmsprop-breakout99-epoch.pkl ```
+```
+python AtariGame-Breakout/tester.py --rom_file breakout.bin --play_games 10 --display_screen --load_weights breakout_models/dep-q-rmsprop-breakout99-epoch.pkl 
+```
 
 
 Space Invaders:  
 
-```python AtariGame-SpaceInvaders/tester.py --rom_file space_invaders.bin --play_games 10 --display_screen --load_weights spaceinvaders_models/dep-q-rmsprop-space_invaders99-epoch.pkl``` 
+```
+python AtariGame-SpaceInvaders/tester.py --rom_file space_invaders.bin --play_games 10 --display_screen --load_weights spaceinvaders_models/dep-q-rmsprop-space_invaders99-epoch.pkl
+``` 
 
 ##Flappy Bird - Q Learning 
 
@@ -40,7 +44,9 @@ I have trained a plain vanilla Q learning (based on http://sarvagyavaish.github.
 
 To run the agent:
 
-```python FlappyQ/run_qvflappy.py```  
+```
+python FlappyQ/run_qvflappy.py
+```  
 
 ##Flappy Bird - DQN
 
@@ -48,21 +54,31 @@ Similar to the Atari games, I have trained the same model with minor only minor 
 
 To run the agent:
 
-``` python FlappyBirdDQN/ftester.py --play_games 10 --display_screen --load_weights flappy_models/dep-q-flappy-60-epoch.pkl```  
+``` 
+python FlappyBirdDQN/ftester.py --play_games 10 --display_screen --load_weights flappy_models/dep-q-flappy-60-epoch.pkl
+```  
 
 ##Shooter game
 
 This is a very simple game I made using pygame where the player controls a  "spaceship" is tasked to dodge the incomming "meteoroids" and stay alive as long as possible. I also tried an (silly?) experiment where I trained different models wherein each model had agents with different degrees of control over the space ship and compared the performance of the same.
 
-To run the agent with just 2 control setting (left and right):
+To run the agent with just 2 control setting (left and right):  
 
-``` python ShooterDQN/stester8.py --play_games 10 --display_screen --load_weights shooter_models/dep-q-shooter-nipscuda-8movectrl-99-epoch.pkl ```  
-To run the agent with just 2 control setting (left and right):
+``` 
+python ShooterDQN/stester8.py --play_games 10 --display_screen --load_weights shooter_models/dep-q-shooter-nipscuda-8movectrl-99-epoch.pkl 
+```  
 
-``` python ShooterDQN/stester4.py --play_games 10 --display_screen --load_weights shooter_models/dep-q-shooter-nipscuda-4movectrl-99-epoch.pkl ```  
-To run the agent with just 2 control setting (left and right):
+To run the agent with just 2 control setting (left and right):  
 
-``` python ShooterDQN/stester2.py --play_games 10 --display_screen --load_weights shooter_models/dep-q-shooter-nipscuda-2movectrl-80-epoch.pkl ```  
+``` 
+python ShooterDQN/stester4.py --play_games 10 --display_screen --load_weights shooter_models/dep-q-shooter-nipscuda-4movectrl-99-epoch.pkl 
+```  
+
+To run the agent with just 2 control setting (left and right):  
+
+``` 
+python ShooterDQN/stester2.py --play_games 10 --display_screen --load_weights shooter_models/dep-q-shooter-nipscuda-2movectrl-80-epoch.pkl 
+```  
 
 
 Note:
