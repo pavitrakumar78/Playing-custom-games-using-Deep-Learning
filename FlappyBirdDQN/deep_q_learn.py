@@ -1,3 +1,9 @@
+"""
+Original version : https://github.com/spragunr/deep_q_rl
+This is a slightly modified version of the deep_q_n code from sprangunr's repo.
+"""
+
+
 import lasagne
 import numpy as np
 import theano
@@ -35,7 +41,6 @@ class DeepQLearner:
 
 		self.update_counter = 0
 
-		# build the network as described in the presentation (PPT)
 		self.l_out = self.build_network(network_type, input_width, input_height,
 										num_actions, num_frames, batch_size)
 
@@ -74,23 +79,19 @@ class DeepQLearner:
 
 		q_vals = lasagne.layers.get_output(self.l_out, states / input_scale)
 		
-		"""shape of q_val? - controls?"""
-
 		next_q_vals = lasagne.layers.get_output(self.l_out, next_states / input_scale)
 
 		next_q_vals = theano.gradient.disconnected_grad(next_q_vals)
 
-		"""how or what does the gradient function do?"""
 		
 		#perform this step: Q(st,a) = rimm + gamma*[ max(a{t+1}) Q(s{t+1}, a{t+1})]
-		#					col. of ones with same dim. as terminals								max element in each row?
+		#					col. of ones with same dim. as terminals								
 		target = (rewards + (T.ones_like(terminals) - terminals) * self.discount * T.max(next_q_vals, axis=1, keepdims=True))
 		
 		#										col. matrix into row matrix|row. matrix into col matrix
 		diff = target - q_vals[T.arange(batch_size), actions.reshape((-1,))].reshape((-1, 1))
 		
 		# basically, we need to choose that 'a' (action) which maximizes Q(s,a)
-		""" Maybe this is why out flappy bird using rms didn't work.. try giving clip_delta as 1 or 2.."""
 		if self.clip_delta > 0: 
 			quadratic_part = T.minimum(abs(diff), self.clip_delta)
 			linear_part = abs(diff) - quadratic_part
@@ -100,7 +101,6 @@ class DeepQLearner:
 
 		loss = T.mean(loss)
 
-		""" find out what is in params """
 		params = lasagne.layers.helper.get_all_params(self.l_out)  
 		givens = {
 			states: self.states_shared,
@@ -111,7 +111,6 @@ class DeepQLearner:
 		}
 
 		if update_rule == 'rmsprop':
-			""" learn more """
 			updates = lasagne.updates.rmsprop(loss, params, self.lr, self.rho, self.rms_epsilon)
 		elif update_rule == 'sgd':
 			# param := param - learning_rate * gradient
