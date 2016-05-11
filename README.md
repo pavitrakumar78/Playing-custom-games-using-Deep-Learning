@@ -83,7 +83,7 @@ python ShooterDQN/stester2.py --play_games 10 --display_screen --load_weights sh
 
 
 ##Note:
-Number of epochs and train cycles has been adjusted such that all the above code when used for traning takes only about 12-15 hrs max. depending on your CPU and GPU (My CPU: i5 3.4 GHz and GPU: nVidia GeForce 660)
+Number of epochs and train cycles has been adjusted such that all the above code when used for traning takes only about 12-15 hrs max. depending on your CPU and GPU (My CPU: i5 3.4 GHz and GPU: nVidia GeForce 660). Also, do not expect super human level performance (as said in Google's paper) from the models as I have trained it only for 12-15 hrs - more traning with further parameter tuning can improve the scores of all the above games.
 
 
 
