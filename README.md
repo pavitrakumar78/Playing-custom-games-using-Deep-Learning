@@ -100,11 +100,26 @@ Shooter (4-control):
 ![Shooter-4ControlStat](https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Stats/Shooter-4ControlStat.png)  
 
 
+##Pics:
+
+Atari Breakout:  
+![ataribreakout](https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/ataribreakout.png)  
+
+Atari Space Invaders:  
+![/atarispaceinvaders](https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/atarispaceinvaders.png)  
+
+Flappy Bird - Q Learning:  
+![flappydqn](https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/flappydqn.png)  
+
+Flappy Bird - DQN:  
+![flappyqn](https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/flappyqn.png)  
+
+Atari Shooter:  
+![shooter](https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/shooter.png)  
 
 
 ##Note:
 Number of epochs and train cycles has been adjusted such that all the above code when used for traning takes only about 12-15 hrs max. depending on your CPU and GPU (My CPU: i5 3.4 GHz and GPU: nVidia GeForce 660). Also, do not expect super human level performance (as said in Google's paper) from the models as I have trained it only for 12-15 hrs - more traning with further parameter tuning can improve the scores of all the above games.
-
 
 
 ##Resources used:  
