@@ -103,19 +103,19 @@ Shooter (4-control):
 ##Pics:
 
 Atari Breakout:  
-<img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/ataribreakout.png" width="300" height="800" />  
+<img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/ataribreakout.png" width="400" height="400" />  
 
 Atari Space Invaders:  
-<img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/atarispaceinvaders.png" width="300" height="800" />    
+<img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/atarispaceinvaders.png" width="400" height="400" />    
 
 Flappy Bird - Q Learning:  
-<img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/flappydqn.png" width="300" height="800" />    
+<img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/flappydqn.png" width="300" height="700" />    
 
 Flappy Bird - DQN:  
-<img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/flappyqn.png" width="300" height="800" />   
+<img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/flappyqn.png" width="300" height="700" />   
 
 Atari Shooter:  
-<img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/shooter.png" width="300" height="800" />    
+<img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/shooter.png" width="300" height="700" />    
 
 
 ##Note:
