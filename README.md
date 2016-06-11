@@ -2,7 +2,7 @@
 
 Implementation of Google's paper on playing atari games using deep learning in python.
 
-Paper Authors: Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller
+Paper Authors: Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller  
 Paper Link: http://arxiv.org/abs/1312.5602
 
 This project presents an implementation of a model (based on the above linked paper) that successfully learns control policies directly from high-dimensional sensory input using reinforcement learning. The model is a convolutional neural network, trained with a variant of Q-learning, whose input is raw pixels and whose output is a value function estimating future rewards. This model is tested on variety of Atari and custom made games and its performance is compared with human players.
@@ -109,10 +109,10 @@ Atari Breakout:
 Atari Space Invaders:  
 <img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/atarispaceinvaders.png" width="400" height="400" />    
 
-Flappy Bird - Q Learning:  
+Flappy Bird - DQN:  
 <img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/flappydqn.png" width="300" height="600" />    
 
-Flappy Bird - DQN:  
+Flappy Bird - Q Learning:  
 <img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/flappyqn.png" width="300" height="600" />   
 
 Atari Shooter:  
