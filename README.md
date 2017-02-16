@@ -115,7 +115,7 @@ Flappy Bird - DQN:
 Flappy Bird - Q Learning:  
 <img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/flappyqn.png" width="300" height="600" />   
 
-Atari Shooter:  
+Shooter (custom game):  
 <img src="https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning/blob/master/Pics/shooter.png" width="300" height="600" />    
 
 
